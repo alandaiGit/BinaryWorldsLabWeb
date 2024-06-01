@@ -84,7 +84,7 @@ You will find all the components used and you can edit your information accordin
 ### Project:
 
 #### ProjectCards.js
-- Responsible for the team member cards on the “Teams” page.
+- Responsible for the team member cards on the “Teams” page and the cards on the "Contact" page.
 
 #### Project.js
 - Responsible for the layout of the “Research” page.
