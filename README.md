@@ -21,6 +21,10 @@ This project was built using these technologies.
 
 Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
+Node.js installation can be found here: https://nodejs.org/en/learn/getting-started/how-to-install-nodejs
+
+git installation can be found here: https://git-scm.com/downloads
+
 ## 🛠 Installation and Setup Instructions
 
 1. Installation: `npm install`
